@@ -942,7 +942,7 @@ static BOOL _shouldToggleHUDAfterLaunch = NO;
     os_log_debug(OS_LOG_DEFAULT, "- [SapphireApp tapMainButton:%{public}@", sender);
 
     BOOL isCurrentlyEnabled = [self isHUDEnabled];
-    NSString *gameProcessName = @"CombatMaster";
+    NSString *gameProcessName = @"pool";
     NSString *bundleId = [[NSBundle mainBundle] bundleIdentifier];
     NSString *bundleName = [[NSBundle mainBundle] objectForInfoDictionaryKey:@"CFBundleName"];
     
@@ -1179,7 +1179,7 @@ static BOOL _shouldToggleHUDAfterLaunch = NO;
 }
 
 - (void)checkForGameProcess {
-    NSString *gameProcessName = @"CombatMaster";
+    NSString *gameProcessName = @"pool";
     MemoryUtils *utils = [[MemoryUtils alloc] initWithProcessName:gameProcessName];
     
     BOOL processFound = utils && utils.valid;
