@@ -6,6 +6,19 @@
 
 **Sapphire** is an external tool for 8 Ball Pool that draws helper lines on your screen. It's a simple overlay tool that doesn't modify or read game memory - it just provides visual assistance by drawing lines to help with aiming.
 
+
+
+
+
+
+![photo_2025-06-28_19-01-21](https://github.com/user-attachments/assets/489bc07d-c289-47d1-b060-660afa5a0767)
+![photo_2025-06-28_18-53-25](https://github.com/user-attachments/assets/01c37ee0-64db-4ced-870b-cc066edeffc4)
+![photo_2025-06-28_18-53-23](https://github.com/user-attachments/assets/b7d771a6-a3ae-4544-9197-be9b4174d21d)
+
+
+
+
+
 ## ✨ Features
 
 - **Helper Lines**: Draws aiming lines on screen
@@ -18,7 +31,8 @@
 
 ### Requirements
 - iPad with iOS 14.0 or newer
-- TrollStore
+- TrollStore![Uploading photo_2025-06-28_18-53-25.jpg…]()
+
 
 ### Installation
 1. Download the `.tipa` file from `packages/`
