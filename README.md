@@ -31,7 +31,7 @@
 
 ### Requirements
 - iPad with iOS 14.0 or newer
-- TrollStore![Uploading photo_2025-06-28_18-53-25.jpg…]()
+- TrollStore!
 
 
 ### Installation
