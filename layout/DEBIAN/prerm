@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if [ -f /Library/LaunchDaemons/a0.sapphire.external.plist ]; then
+    launchctl unload /Library/LaunchDaemons/a0.sapphire.external.plist || true
+fi
+
+if [ -f /var/jb/Library/LaunchDaemons/a0.sapphire.external.plist ]; then
+    launchctl unload /var/jb/Library/LaunchDaemons/a0.sapphire.external.plist || true
+fi
+
+exit 0

@@ -1,0 +1,32 @@
+/* No comment provided by engineer. */
+"Choose an action below." = "请选择以下任一选项。";
+
+/* No comment provided by engineer. */
+"Developer Area" = "开发者工具";
+
+/* No comment provided by engineer. */
+"Dismiss" = "关闭";
+
+/* No comment provided by engineer. */
+"Exit HUD" = "关闭悬浮窗";
+
+/* No comment provided by engineer. */
+"Memory Pressure" = "内存压力测试";
+
+/* No comment provided by engineer. */
+"OFF" = "关闭";
+
+/* No comment provided by engineer. */
+"ON" = "打开";
+
+/* No comment provided by engineer. */
+"MY BUILD TEST " = "打开悬浮窗";
+
+/* No comment provided by engineer. */
+"Reset Settings" = "重置设置";
+
+/* No comment provided by engineer. */
+"Settings" = "选项";
+
+/* No comment provided by engineer. */
+"You can quit this app now.\nThe HUD will persist on your screen." = "你现在可以退出这个应用了，\n悬浮窗将会一直显示在你的屏幕上。";

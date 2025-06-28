@@ -1,0 +1,161 @@
+/* formattedSpeed */
+"%.0f KB" = "%.0f KB";
+
+/* formattedSpeed */
+"%.0f Kb" = "%.0f Kb";
+
+/* formattedSpeed */
+"%.0f Kb/s" = "%.0f Kb/s";
+
+/* formattedSpeed */
+"%.0f KB/s" = "%.0f KB/s";
+
+/* formattedSpeed */
+"%.2f GB" = "%.2f GB";
+
+/* formattedSpeed */
+"%.2f Gb" = "%.2f Gb";
+
+/* formattedSpeed */
+"%.2f GB/s" = "%.2f GB/s";
+
+/* formattedSpeed */
+"%.2f Gb/s" = "%.2f Gb/s";
+
+/* formattedSpeed */
+"%.2f MB" = "%.2f MB";
+
+/* formattedSpeed */
+"%.2f Mb" = "%.2f Mb";
+
+/* formattedSpeed */
+"%.2f MB/s" = "%.2f MB/s";
+
+/* formattedSpeed */
+"%.2f Mb/s" = "%.2f Mb/s";
+
+/* formattedSpeed */
+"0 KB" = "0 KB";
+
+/* formattedSpeed */
+"0 Kb" = "0 Kb";
+
+/* formattedSpeed */
+"0 Kb/s" = "0 Kb/s";
+
+/* formattedSpeed */
+"0 KB/s" = "0 KB/s";
+
+/* No comment provided by engineer. */
+"Activate the network speed HUD." = "打开网速悬浮窗。";
+
+/* No comment provided by engineer. */
+"Appearance" = "外观";
+
+/* No comment provided by engineer. */
+"b/s" = "b/s";
+
+/* No comment provided by engineer. */
+"B/s" = "B/s";
+
+/* No comment provided by engineer. */
+"Choose an action below." = "请选择以下任一选项。";
+
+/* No comment provided by engineer. */
+"Classic" = "经典";
+
+/* No comment provided by engineer. */
+"Deactivate the network speed HUD." = "关闭网速悬浮窗。";
+
+/* No comment provided by engineer. */
+"Developer Area" = "开发者工具";
+
+/* No comment provided by engineer. */
+"Dismiss" = "关闭";
+
+/* No comment provided by engineer. */
+"Exit HUD" = "关闭悬浮窗";
+
+/* No comment provided by engineer. */
+"Follow" = "跟随";
+
+/* No comment provided by engineer. */
+"Hide" = "隐藏";
+
+/* No comment provided by engineer. */
+"Hide @snapshot" = "截图时隐藏";
+
+/* No comment provided by engineer. */
+"Incoming Only" = "仅显示下载";
+
+/* No comment provided by engineer. */
+"Inverted" = "实时反色";
+
+/* No comment provided by engineer. */
+"Keep In-place" = "锁定位置";
+
+/* No comment provided by engineer. */
+"Landscape" = "横屏支持";
+
+/* No comment provided by engineer. */
+"Large" = "较大";
+
+/* No comment provided by engineer. */
+"Made with ♥ by @GITHUB@AlexZero and @GITHUB@jmpews\nTranslation @TRANSLATION@" = "由 @GITHUB@AlexZero 和 @GITHUB@jmpews 倾情制作";
+
+/* No comment provided by engineer. */
+"Memory Pressure" = "内存压力测试";
+
+/* No comment provided by engineer. */
+"OFF" = "关闭";
+
+/* No comment provided by engineer. */
+"ON" = "打开";
+
+/* No comment provided by engineer. */
+"MY BUILD TEST " = "打开悬浮窗";
+
+/* No comment provided by engineer. */
+"Pass-through" = "触摸穿透";
+
+/* No comment provided by engineer. */
+"Prefixes" = "前缀";
+
+/* No comment provided by engineer. */
+"Re-open to apply" = "重启以应用更改";
+
+/* No comment provided by engineer. */
+"Reset Settings" = "重置设置";
+
+/* No comment provided by engineer. */
+"Settings" = "选项";
+
+/* No comment provided by engineer. */
+"Size" = "尺寸";
+
+/* No comment provided by engineer. */
+"Standard" = "标准";
+
+/* No comment provided by engineer. */
+"Tap that button on the center again,\nto toggle ON/OFF “Dynamic Island” mode." = "多次轻按位于中间的布局按钮，\n可以在“灵动岛”上方或下方切换布局。";
+
+/* No comment provided by engineer. */
+"Toggle HUD" = "打开/关闭悬浮窗";
+
+/* No comment provided by engineer. */
+"Toggle the network speed HUD." = "打开/关闭网速悬浮窗。";
+
+/* No comment provided by engineer. */
+"Unit" = "单位";
+
+/* No comment provided by engineer. */
+"Utility" = "实用工具";
+
+/* No comment provided by engineer. */
+"You can quit this app now.\nThe HUD will persist on your screen." = "你现在可以退出这个应用了，\n悬浮窗将会一直显示在你的屏幕上。";
+
+/* No comment provided by engineer. */
+"↑↓" = "↑↓";
+
+/* No comment provided by engineer. */
+"▲▼" = "▲▼";

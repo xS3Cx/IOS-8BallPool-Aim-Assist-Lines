@@ -1,0 +1,161 @@
+/* formattedSpeed */
+"%.0f KB" = "%.0f KB";
+
+/* formattedSpeed */
+"%.0f Kb" = "%.0f Kb";
+
+/* formattedSpeed */
+"%.0f Kb/s" = "%.0f Kb/s";
+
+/* formattedSpeed */
+"%.0f KB/s" = "%.0f KB/s";
+
+/* formattedSpeed */
+"%.2f GB" = "%.2f GB";
+
+/* formattedSpeed */
+"%.2f Gb" = "%.2f Gb";
+
+/* formattedSpeed */
+"%.2f GB/s" = "%.2f GB/s";
+
+/* formattedSpeed */
+"%.2f Gb/s" = "%.2f Gb/s";
+
+/* formattedSpeed */
+"%.2f MB" = "%.2f MB";
+
+/* formattedSpeed */
+"%.2f Mb" = "%.2f Mb";
+
+/* formattedSpeed */
+"%.2f MB/s" = "%.2f MB/s";
+
+/* formattedSpeed */
+"%.2f Mb/s" = "%.2f Mb/s";
+
+/* formattedSpeed */
+"0 KB" = "0 KB";
+
+/* formattedSpeed */
+"0 Kb" = "0 Kb";
+
+/* formattedSpeed */
+"0 Kb/s" = "0 Kb/s";
+
+/* formattedSpeed */
+"0 KB/s" = "0 KB/s";
+
+/* No comment provided by engineer. */
+"Activate the network speed HUD." = "Activate the network speed HUD.";
+
+/* No comment provided by engineer. */
+"Appearance" = "Appearance";
+
+/* No comment provided by engineer. */
+"b/s" = "b/s";
+
+/* No comment provided by engineer. */
+"B/s" = "B/s";
+
+/* No comment provided by engineer. */
+"Choose an action below." = "Choose an action below.";
+
+/* No comment provided by engineer. */
+"Classic" = "Classic";
+
+/* No comment provided by engineer. */
+"Deactivate the network speed HUD." = "Deactivate the network speed HUD.";
+
+/* No comment provided by engineer. */
+"Developer Area" = "Developer Area";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
+"Exit HUD" = "Exit HUD";
+
+/* No comment provided by engineer. */
+"Follow" = "Follow";
+
+/* No comment provided by engineer. */
+"Hide" = "Hide";
+
+/* No comment provided by engineer. */
+"Hide @snapshot" = "Hide @snapshot";
+
+/* No comment provided by engineer. */
+"Incoming Only" = "Incoming Only";
+
+/* No comment provided by engineer. */
+"Inverted" = "Inverted";
+
+/* No comment provided by engineer. */
+"Keep In-place" = "Keep In-place";
+
+/* No comment provided by engineer. */
+"Landscape" = "Landscape";
+
+/* No comment provided by engineer. */
+"Large" = "Large";
+
+/* No comment provided by engineer. */
+"Made with ♥ by @GITHUB@AlexZero and @GITHUB@jmpews\nTranslation @TRANSLATION@" = "Made with ♥ by @GITHUB@AlexZero and @GITHUB@jmpews";
+
+/* No comment provided by engineer. */
+"Memory Pressure" = "Memory Pressure";
+
+/* No comment provided by engineer. */
+"OFF" = "OFF";
+
+/* No comment provided by engineer. */
+"ON" = "ON";
+
+/* No comment provided by engineer. */
+"MY BUILD TEST " = "MY BUILD TEST ";
+
+/* No comment provided by engineer. */
+"Pass-through" = "Pass-through";
+
+/* No comment provided by engineer. */
+"Prefixes" = "Prefixes";
+
+/* No comment provided by engineer. */
+"Re-open to apply" = "Re-open to apply";
+
+/* No comment provided by engineer. */
+"Reset Settings" = "Reset Settings";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Size" = "Size";
+
+/* No comment provided by engineer. */
+"Standard" = "Standard";
+
+/* No comment provided by engineer. */
+"Tap that button on the center again,\nto toggle ON/OFF “Dynamic Island” mode." = "Tap that button on the center again,\nto toggle ON/OFF “Dynamic Island” mode.";
+
+/* No comment provided by engineer. */
+"Toggle HUD" = "Toggle HUD";
+
+/* No comment provided by engineer. */
+"Toggle the network speed HUD." = "Toggle the network speed HUD.";
+
+/* No comment provided by engineer. */
+"Unit" = "Unit";
+
+/* No comment provided by engineer. */
+"Utility" = "Utility";
+
+/* No comment provided by engineer. */
+"You can quit this app now.\nThe HUD will persist on your screen." = "You can quit this app now.\nThe HUD will persist on your screen.";
+
+/* No comment provided by engineer. */
+"↑↓" = "↑↓";
+
+/* No comment provided by engineer. */
+"▲▼" = "▲▼";

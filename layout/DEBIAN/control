@@ -1,0 +1,9 @@
+Package: a0.sapphire.external.jb
+Name: Sapphire JB
+Version: 1.12.1
+Section: Cheats
+Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+Author: AlexZero
+Maintainer: AlexZero
+Description: 8 Ball Pool External  Drawning Aim Assist
